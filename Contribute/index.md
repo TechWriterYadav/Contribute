@@ -54,7 +54,7 @@ Quick edits streamline the process to report and fix small errors and omissions 
 
 6. That's it! Content team members will review your PR and merge it when it's approved. You may get feedback requesting changes.
 
-The GitHub editing UI responds to your permissions on the repository. The preceding images are accurate for contributors who don't have write permissions to the target repository. GitHub automatically creates a fork of the target repository in your account. If you have write access to the target repository, GitHub creates a new branch in the target repo. The branch name has the form **\<GitHubId\>-patch-n**, using your GitHub ID and a numeric identifier for the patch branch.
+The GitHub editing UI responds to your permissions on the repository. The preceding images are for contributors who don't have write permissions to the target repository. GitHub automatically creates a fork of the target repository in your account. If you have write access to the target repository, GitHub creates a new branch in the target repo. The branch name has the form **\<GitHubId\>-patch-n**, using your GitHub ID and a numeric identifier for the patch branch.
 
 We use PRs for all changes, even for contributors who have write access. Most repositories protect the default branch so that updates must be submitted as PRs.
 
